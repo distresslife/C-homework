@@ -28,9 +28,5 @@ int main(void){
     scanf("%u\n%u",&a,&b);
     f = gcd(a,b);
     printf("( %d,%d ) g.c.d is %d",a,b,f);
-
-    /*
-     printf("Hello World 2013!");
-    */
     return 0;
 }
